@@ -9,19 +9,17 @@ Creating scalable UI and reliable backend systems is what I enjoy the most.
 ## 🟦 TECH STACK
 
 **Core:**  
-- C# · .NET · API Development  
+- C#
 - Angular · TypeScript · JavaScript  
 - HTML · CSS  
 - Clean Code · Modular Architecture
 
 **Tools & Workflow:**  
 - Figma (UI/UX prototyping)  
-- Git · GitHub · Component-based design  
-- Reusable patterns & structured development workflow
+- Git · GitHub · Component-based design
 
 **Currently Exploring:**  
 - Advanced frontend architecture  
-- Scalable backend patterns  
 
 ---
 
@@ -30,9 +28,6 @@ Creating scalable UI and reliable backend systems is what I enjoy the most.
 ### ▪ UI / Frontend Implementations  
 Clean, consistent and lightweight UI built with Angular + TypeScript.  
 Focus on reusable components, layered structure and responsive design.
-
-### ▪ API & Backend Development  
-RESTful APIs using C# and .NET with attention to structure, maintainability and real-life business logic.
 
 ---
 
