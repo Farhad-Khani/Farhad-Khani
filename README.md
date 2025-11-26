@@ -1,16 +1,44 @@
-## Hi there 👋
+# Farhad Khani  
+**Full Stack Developer**
 
-<!--
-**Farhad-Khani/Farhad-Khani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern web applications with a focus on clean architecture, consistency and real-world problem solving.  
+Creating scalable UI and reliable backend systems is what I enjoy the most.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🟦 TECH STACK
+
+**Core:**  
+- C# · .NET · API Development  
+- Angular · TypeScript · JavaScript  
+- HTML · CSS  
+- Clean Code · Modular Architecture
+
+**Tools & Workflow:**  
+- Figma (UI/UX prototyping)  
+- Git · GitHub · Component-based design  
+- Reusable patterns & structured development workflow
+
+**Currently Exploring:**  
+- Advanced frontend architecture  
+- Scalable backend patterns  
+
+---
+
+## 🟧 FEATURED WORK
+
+### ▪ UI / Frontend Implementations  
+Clean, consistent and lightweight UI built with Angular + TypeScript.  
+Focus on reusable components, layered structure and responsive design.
+
+### ▪ API & Backend Development  
+RESTful APIs using C# and .NET with attention to structure, maintainability and real-life business logic.
+
+---
+
+## 🟨 CONTACT  
+📨 **farhad-khani@outlook.com**
+
+---
+
+### *Building, learning and improving — every single day.*
